@@ -61,6 +61,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
 gem "mysql2"
 gem "activerecord"
 gem "byebug"
