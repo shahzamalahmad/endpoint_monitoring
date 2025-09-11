@@ -72,3 +72,5 @@ gem "kaminari"
 gem "kaminari-bootstrap"
 gem "dotenv-rails", groups: [ :development, :test ]
 gem "clickhouse"
+gem "ruby-kafka"   # Kafka client for producers/consumers
+gem "racecar"      # Optional: framework for long-running consumers
